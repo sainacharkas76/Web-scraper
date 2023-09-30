@@ -14,9 +14,13 @@ positional arguments:
 
 options:
   -h, --help           show this help message and exit
+  
   --quantity           the number of papers you would like to retrieve, default 1000
+  
   --all                retrieve all the papers
+  
   --format {csv,json}  define the database format, default csv
+  
   --score              compute relevance score for each paper
   
   # license
