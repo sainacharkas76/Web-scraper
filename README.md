@@ -5,7 +5,7 @@ pip install requests
 pip install pandas
 
 # Usage
-###usage: main.py "string" [options]
+%%usage: main.py "string" [options]
 
 PubMed API scraper that collects paper information and stores them in a database
 
