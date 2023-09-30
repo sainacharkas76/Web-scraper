@@ -5,7 +5,7 @@ pip install requests
 pip install pandas
 
 # Usage
-usage: main.py "string" [options]
+###usage: main.py "string" [options]
 
 PubMed API scraper that collects paper information and stores them in a database
 
@@ -22,6 +22,6 @@ options:
   --format {csv,json}  define the database format, default csv
   
   --score              compute relevance score for each paper
-  
+ ### 
   # license
   This project is licensed under the MIT License.
