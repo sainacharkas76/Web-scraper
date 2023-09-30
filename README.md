@@ -29,8 +29,7 @@ options:
   
   --score              compute relevance score for each paper
 
-```
-## example:
+```example:
 python main.py "cnn lung cancer" --quantity 200 --score
 
 # license
