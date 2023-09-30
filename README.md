@@ -7,6 +7,7 @@ pip install requests
 pip install pandas
 ```
 # Usage
+
 ```
 usage: main.py "string" [options]
 
@@ -25,6 +26,7 @@ options:
   --format {csv,json}  define the database format, default csv
   
   --score              compute relevance score for each paper
+
 ```
   # license
   This project is licensed under the MIT License.
