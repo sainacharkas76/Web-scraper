@@ -2,10 +2,9 @@
 PubMed API website scraper 
 
 # Requirements
-[
-pip install requests
-pip install pandas
-]
+###pip install requests
+### pip install pandas
+
 # Usage
 %%usage: main.py "string" [options]
 
